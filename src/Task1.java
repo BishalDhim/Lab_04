@@ -9,8 +9,7 @@ public class Task1 {
         double doubleQuotient;
         double doubleModulo;
 
-        doubleSum = doubleOperandA + doubleOperandB;
 
-        System.out.println("The sum using double units is"+ doubleOperandA + "" + doubleOperandB + "is" + doubleSum);
+        System.out.println("The sum using double units is " + doubleOperandA + " and " + doubleOperandB + " equals " + doubleSum);
     }
 }
